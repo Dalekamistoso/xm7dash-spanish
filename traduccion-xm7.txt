@@ -1,0 +1,59 @@
+TRADUCCION DEL EMULADOR DE FM-7 XM7-TYPER A ESPAÑOL 1.000
+=========================================================
+
+He creado este parche para facilitar el uso del mejor 
+emulador existente de la gama de ordenadores Fujitsu FM7
+que por desgracia estaba únicamente en japonés.
+
+
+CARACTERISTICAS BUGS Y LIMITACIONES
+===================================
+
+El parche traduce al español:
+
+El 100% de los textos de menús, opciones y descripciones.
+
+La versión soportada actualmente es la 3.4L77SX+z09 con
+fecha del 23/01/2020.
+
+NO SE TRADUCEN:
+
+Los nombres de los registros en tiempo real dentro de 
+las subventanas del depurador ya que son los términos 
+que normalmente se usan tal cual y están en inglés.
+
+No es recomendable usarla en versiones posteriores.
+
+Al no haber modificado el core del emulador en si mismo 
+*es posible* que funcione pero no se recomienda.
+
+Espera en ese caso a una nueva versión de este parche.
+
+COMO USAR ESTA TRADUCCION
+=========================
+
+1.- Descarga el emulador de esta página para tu sistema:
+
+    http://retropc.net/ryu/xm7/zip/xm7tr_3477sxz09.zip
+	
+2.- Descarga tu parcheador IPS favorito (Lunar,uCon, etc)	
+
+2.- Descomprimes el fichero y aplica el parche IPS sobre:
+
+    ".\win32\XM7.exe" 
+	
+3.- Listo.
+
+
+Créditos
+========
+
+- Autores originales (y derechos de copia):
+
+  Copyright (C) 1999-2020 ＰＩ．
+  Copyright (C) 2001-2020 Ryu Takegami
+  Copyright (C) 2010-2018 Toma
+
+- DrWh0/Dalekamistoso: Traducción NO OFICIAL a español.
+
+Fecha: 03/08/2020
